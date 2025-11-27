@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+playwright
+openai
+pydantic
+python-dotenv
+pdfplumber
+pytest
+pytest-asyncio
+gunicorn
